@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sanun\\Downloads\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj": {}
+    "C:\\Users\\sanun\\Downloads\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\desenvolvimentoapi\\Exo.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sanun\\Downloads\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj": {
+    "C:\\Users\\sanun\\Downloads\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\desenvolvimentoapi\\Exo.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sanun\\Downloads\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\sanun\\Downloads\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\desenvolvimentoapi\\Exo.WebApi.csproj",
         "projectName": "Exo.WebApi",
-        "projectPath": "C:\\Users\\sanun\\Downloads\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj",
+        "projectPath": "C:\\Users\\sanun\\Downloads\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\desenvolvimentoapi\\Exo.WebApi.csproj",
         "packagesPath": "C:\\Users\\sanun\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sanun\\Downloads\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\obj\\",
+        "outputPath": "C:\\Users\\sanun\\Downloads\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\desenvolvimentoapi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sanun\\AppData\\Roaming\\NuGet\\NuGet.Config"
